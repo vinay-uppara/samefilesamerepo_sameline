@@ -1,7 +1,7 @@
 # Simple Python program
 
 # Print a message
-print("Hello! Welcome to Python.")
+print("Hello! Welcome to DevOps and Multicloud.")
 
 # Take user input
 name = input("vinay kumar uppara: ")
