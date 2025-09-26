@@ -4,7 +4,7 @@
 print("Hello! Welcome to Python.")
 
 # Take user input
-name = input("Enter your name: ")
+name = input("vinay kumar uppara: ")
 age = int(input("Enter your age: "))
 
 # Do a small calculation
