@@ -5,7 +5,7 @@ print("Hello! Welcome to DevOps and Multicloud.")
 
 # Take user input
 name = input("vinay kumar uppara: ")
-age = int(input("Enter your age: "))
+age = int(input("Enter your 23: "))
 
 # Do a small calculation
 next_year_age = age + 1
