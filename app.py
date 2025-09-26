@@ -4,7 +4,7 @@
 print("Hello! Welcome to DevOps and Multicloud.")
 
 # Take user input
-name = input("vinay kumar uppara: ")
+name = input("jiraa veerappagari: ")
 age = int(input("Enter your 23: "))
 
 # Do a small calculation
